@@ -1,3 +1,5 @@
+#calculadora simples que realiza as quatro operações básicas
+
 def calculadora(num1: float, num2: float, operacao: str):
     match operacao:
         case '+':

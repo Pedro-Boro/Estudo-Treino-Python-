@@ -1,4 +1,4 @@
-#encontrar número do cartao sabendo que ele é multiplo de 123457 e o digito de Luhn é valido.
+#encontrar número do cartao sabendo que ele é multiplo de 123457, os primeiros 6 digitos são '543210', os 4 ultimos sao 1234 e o digito de Luhn é valido.
 
 
 #declara listas

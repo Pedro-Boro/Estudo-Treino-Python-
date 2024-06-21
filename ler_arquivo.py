@@ -1,4 +1,4 @@
-#ler arquivo e retornar o numero de linhas que apresentam pelo menos uma das condiçoes:
+#ler arquivo (data.dat) e retornar o numero de linhas que apresentam pelo menos uma das condiçoes:
 #quantidade de 0 na linha é multiplo de 3
 #quantidade de 1 na linha é multiplo de 2
 

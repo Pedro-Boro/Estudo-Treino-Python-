@@ -1,3 +1,5 @@
+#verifica se uma palavra digitada pelo usuário é um palíndromo (pode ser lida de trás para frente)
+
 ligado = True
 while ligado:
     palavra = input('Insira a palavra que deseja testar: ')
